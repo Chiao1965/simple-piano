@@ -1,6 +1,4 @@
 # simple-piano
-
----
 By using python language to write a GUI piano.
 
 - main.py 
