@@ -1,5 +1,5 @@
 # simple-piano
-By using python language to write a GUI piano.
+By using python language to implement a GUI piano.
 
 ---
 
